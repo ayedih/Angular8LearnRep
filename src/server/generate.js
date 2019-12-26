@@ -26,3 +26,5 @@ Resources :
 To access and modify resources, you can use any HTTP method:
 
 GET POST PUT PATCH DELETE OPTIONS */
+
+/* You can now send HTTP requests to the server just like any typical REST API server. Your server will be available from the  http://localhost:3000/  address. */
